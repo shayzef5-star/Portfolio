@@ -4,7 +4,7 @@ const projects = [
     title: 'Portfolio',
     description: 'A clean one-page portfolio site that showcases my key projects and skills. It includes sections for services, portfolio, about me, and a contact form. Fully responsive across mobile and desktop. Tech Stack: HTML, CSS (Flexbox/Grid), JavaScript.',
     image: 'images/logo.jpg',
-    link: '#',
+    link: '',
     buttonText: 'This Page'
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     title: 'Price Calculator',
     description: 'An interactive cost estimator that helps clients quickly get a price quote for their project. Users select service type and options, and the total updates instantly. It simplifies the quoting process and makes pricing transparent. Tech Stack: HTML, CSS, JavaScript (event handling, dynamic DOM updates).',
     image: 'images/ComingSoon.png',
-    link: '#',
+    link: '',
     buttonText: 'Coming Soon'
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     title: 'To-Do list app',
     description: 'A simple task management tool. Users can add tasks, mark them as completed, delete them, and filter by status. Data is saved in Local Storage, so nothing is lost on page refresh. Tech Stack: HTML, CSS, JavaScript (DOM manipulation, Local Storage).',
     image: 'images/ComingSoon.png',
-    link: '#',
+    link: '',
     buttonText: 'Coming Soon'
   },
   {
@@ -28,7 +28,7 @@ const projects = [
     title: 'Online Store',
     description: 'A service catalog with a functional shopping cart. Users can browse services, add items to their cart, view the total cost, and submit a request. Clean UI for a smooth client experience. Tech Stack: HTML, CSS, JavaScript (state management, dynamic interface).',
     image: 'images/ComingSoon.png',
-    link: '#',
+    link: '',
     buttonText: 'Coming Soon'
   }
 ];
