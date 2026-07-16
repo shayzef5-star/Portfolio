@@ -5,7 +5,7 @@ const projects = [
     title: 'Portfolio',
     description: 'A clean one-page portfolio site that showcases my key projects and skills. It includes sections for services, portfolio, about me, and a contact form. Fully responsive across mobile and desktop. Tech Stack: HTML, CSS (Flexbox/Grid), JavaScript.',
     image: 'images/logo.jpg',
-    link: 'https://sunmedexpert.ru/all/b2/shkala-gad-7_ouwq01i2bpi.pdf',
+    link: '',
     buttonText: 'This Page'
   },
   {
