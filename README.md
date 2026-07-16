@@ -4,11 +4,11 @@
 
 ## 🚀 Live Demo
 
-**[View the live site here](https://shayzef5-star.github.io/index.html)**  
+**[View the live site here](https://shayzef5-star.github.io/Portfolio/)**  
 
 ## 📸 Preview
 
-![Screenshot of the landing page](https://shayzef5-star.github.io/images/Preview.jpg)
+![Screenshot of the landing page](https://shayzef5-star.github.io/Portfolio/images/Preview.jpg)
 
 ## 🛠️ Built With
 
