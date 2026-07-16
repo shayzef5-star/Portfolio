@@ -1,4 +1,3 @@
-// ===== ДАННЫЕ ПРОЕКТОВ =====
 const projects = [
   {
     id: 'project1',
@@ -34,7 +33,6 @@ const projects = [
   }
 ];
 
-// ===== НАХОДИМ ЭЛЕМЕНТЫ НА СТРАНИЦЕ =====
 const mainProject = document.getElementById('mainProject');
 const mainImage = mainProject.querySelector('img');
 const mainTitle = mainProject.querySelector('.main-info h2');
@@ -69,7 +67,7 @@ function openProject() {
   if (currentLink) {
     window.open(currentLink, '_blank');
   } else {
-    alert('Ссылка пока не добавлена');
+    alert('None');
   }
 }
 
