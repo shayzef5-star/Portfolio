@@ -11,17 +11,17 @@ const projects = [
     id: 'project2',
     title: 'Price Calculator',
     description: 'An interactive cost estimator that helps clients quickly get a price quote for their project. Users select service type and options, and the total updates instantly. It simplifies the quoting process and makes pricing transparent. Tech Stack: HTML, CSS, JavaScript (event handling, dynamic DOM updates).',
-    image: 'images/ComingSoon.png',
-    link: '',
-    buttonText: 'Coming Soon'
+    image: 'images/Calculator.jpg',
+    link: 'https://shayzef5-star.github.io/Calculator/',
+    buttonText: 'Open Website'
   },
   {
     id: 'project3',
     title: 'To-Do list app',
     description: 'A simple task management tool. Users can add tasks, mark them as completed, delete them, and filter by status. Data is saved in Local Storage, so nothing is lost on page refresh. Tech Stack: HTML, CSS, JavaScript (DOM manipulation, Local Storage).',
-    image: 'images/ComingSoon.png',
-    link: '',
-    buttonText: 'Coming Soon'
+    image: 'images/To-Do.jpg',
+    link: 'https://shayzef5-star.github.io/To-Do-List-',
+    buttonText: 'Open Website'
   },
   {
     id: 'project4',
